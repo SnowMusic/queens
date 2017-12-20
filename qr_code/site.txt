@@ -1,0 +1,3 @@
+http://www.xx.xx?a=app-release-xingzheng1
+http://www.xx.xx?a=app-release-xingzheng2
+http://www.xx.xx?a=app-release-xingzheng3
